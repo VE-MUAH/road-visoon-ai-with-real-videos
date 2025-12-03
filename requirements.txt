@@ -1,6 +1,7 @@
 streamlit
 ultralytics
-opencv-python-headless==4.9.0.80
+numpy<2
+opencv-python-headless==4.10.0.84
 pillow
 numpy
 pandas
@@ -12,3 +13,4 @@ av
 scikit-learn
 joblib
 geopandas
+
